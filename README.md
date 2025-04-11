@@ -21,28 +21,22 @@ Hello! I'm Okeke Chinomso, a data scientist, with a passion for turning data int
 *A glimpse of some of the projects I've been working on.*
 
 **Predictive Modeling on cost of medical insurance.**
-![image](1 anietie etuk data analytics car project.jpeg)
-
-The sinking of the Titanic is one of the most infamous shipwrecks in history.
+![image]()
 
 
-[Read More](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/)
 
-**Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
+**Predictive Modeling and Analysis of Customer Churn for a Telecommunication provider.**
 
-![image](2 anietie etuk data analytics sales project.jpg)
+![image]()
 
-On April 15, 1912, during her maiden voyage, the widely considered “unsinkable” RMS Titanic sank after colliding with an iceberg. 
 
-[Read More](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/)
 
-**Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
+[Read More]()
 
-![image](3 anietie etuk data analytics agro project.jpg)
+**Predictive Modeling for Pregrenant Women with Diabetes.**
 
-Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting in the death of 1502 out of 2224 passengers and crew. 
+![image]()
 
-<a href="17 How to Present Data to Executives by Anietie Etuk.pdf">Download the Report here (pdf file)</a>
 
 
 ## CONTACT DETAILS
@@ -52,11 +46,11 @@ Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting 
   <tbody>
     <tr>
       <td>📧</td>
-      <td><a href="mailto:anietieetuk@gmail.com">anietieetuk@gmail.com</a></td>
+      <td><a href="onnaemekachinomso@gmail.com">onnaemekachinomso@gmail.com</a></td>
     </tr>
     <tr>
       <td>📞</td>
-      <td>(234) 816-763-7212</td>
+      <td>(234) 705-844-8821</td>
     </tr>
     <tr>
       <td>📍</td>
@@ -64,15 +58,15 @@ Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting 
     </tr>
     <tr>
       <td>⬇️</td>
-      <td><a href="https://etuk123456.github.io/portfolio1/docs/Profile.pdf">Download my CV</a></td>
+      <td><a href="https://MEKA32.github.io/portfolio1/docs/Profile.pdf">Download my CV</a></td>
     </tr>
     <tr>
       <td>🌐</td>
-      <td><a href="https://linkedin.com/in/etukanietie">The things I do daily on LinkedIn</a></td>
+      <td><a href="https:///in/">T</a></td>
     </tr>
     <tr>
       <td>📺</td>
-      <td><a href="https://www.youtube.com/@LearnwithEtuk">Watch my tutorials on YouTube</a></td>
+      <td><a href=
     </tr>
   </tbody>
 </table>
