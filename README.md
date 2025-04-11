@@ -20,8 +20,9 @@ Hello! I'm Okeke Chinomso, a data scientist, with a passion for turning data int
 
 *A glimpse of some of the projects I've been working on.*
 
-**Predictive Modeling on cost of medical insurance.**
-![image]()
+**Predictive Modeling on cost of medical insurance**
+
+![image](cost of medical insurance Charges Dist.png)
 
 
 
