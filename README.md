@@ -25,9 +25,9 @@ Hello! I'm Okeke Chinomso, a data scientist, with a passion for turning data int
 
 
 
-**Predictive Modeling and Analysis of Customer Churn for a Telecommunication provider.**
+**Predictive Modeling and Analysis of Customer Churn for a Telecommunication provider**
 
-![image]()
+![image](churn exited plot.png)
 
 
 
