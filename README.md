@@ -34,9 +34,9 @@ Hello! I'm Okeke Chinomso, a data scientist, with a passion for turning data int
 
 [Read More]()
 
-**Predictive Modeling for Pregrenant Women with Diabetes.**
+**Predictive Modeling for Cohort Customer segmentation by purchase behavior.**
 
-![image]()
+![image](Cohort analysis Tabel.png)
 
 
 
