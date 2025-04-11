@@ -54,7 +54,7 @@ Hello! I'm Okeke Chinomso, a data scientist, with a passion for turning data int
     </tr>
     <tr>
       <td>📍</td>
-      <td>PH, Nigeria</td>
+      <td>Abuja, Nigeria</td>
     </tr>
     <tr>
       <td>⬇️</td>
@@ -62,7 +62,7 @@ Hello! I'm Okeke Chinomso, a data scientist, with a passion for turning data int
     </tr>
     <tr>
       <td>🌐</td>
-      <td><a href="https:///in/">T</a></td>
+      <td><a href=
     </tr>
     <tr>
       <td>📺</td>
