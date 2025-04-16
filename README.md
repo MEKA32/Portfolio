@@ -62,3 +62,7 @@ Hello! I'm Okeke Chinomso, a data scientist, with a passion for turning data int
       <td><a href="https://MEKA32.github.io/portfolio1/docs/Profile.pdf">Download my CV</a></td>
     </tr>
     <tr>
+     <td>🌐</td>
+      <td><a href="http://linkedin.com/in/chinomso-nnaemeka-okeke-5b9b72a7">The things I do daily on LinkedIn</a></td>
+    </tr>
+    <tr>
